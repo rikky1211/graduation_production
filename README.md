@@ -1,4 +1,5 @@
-# ■サービス名：SaitaMania
+# ■サービス名：SaitaManear
+# ※Saitama + Mania + near
 
 ## ■サービス概要
 - 埼玉県の有名な観光地などに向かった「ついでに」サイトにはあまり書かれていない
@@ -149,7 +150,9 @@
 
 - API
   - Google Geolocation API
+    -> 必要事項：
   - Google Maps JavaScript API
+    -> 必要事項：Google Mapを表示 -> catchup:表示成功
 
 	< 以下は時間があれば >
   - Google Places API :GoogleMapに登録されたものを取得可
